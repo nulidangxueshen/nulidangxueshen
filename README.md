@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <img height="160px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulidangxueshen&layout=compact&theme=radical" />
   <img height="220px" width="300px" src="https://stats.justsong.cn/api/github?username=nulidangxueshen" />
   <img height="220px" width="300px" src="https://stats.justsong.cn/api/csdn?id=qq_29117927">
-  <img height="220px" width="300px" src="https://stats.justsong.cn/api/zhihu?username=hpc_bhd" />
+</div>
+<div align="center">
+    <img height="220px" width="300px" src="https://stats.justsong.cn/api/zhihu?username=hpc_bhd" />
   <img height="220px" width="300px" src="https://stats.justsong.cn/api/nowcoder?id=4074620" />
 </div>
 
