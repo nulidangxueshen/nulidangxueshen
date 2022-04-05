@@ -2,6 +2,15 @@
 
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=nulidangxueshen" />
+    <a href="https://www.zhihu.com/people/hpc_bhd">
+        <img src="https://img.shields.io/static/v1?label=zhihu&message=hpc_bhd&color=blue" />
+    </a>
+    <a href="https://blog.csdn.net/qq_29117927">
+        <img src="https://img.shields.io/static/v1?label=CSDN&message=hpc_bhd&color=blue" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/static/v1?label=HomePage&message=hpc_bhd&color=blue" />
+    </a>
 </div>
 
 <!--
