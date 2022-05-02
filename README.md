@@ -8,7 +8,7 @@
     <a href="https://blog.csdn.net/qq_29117927">
         <img src="https://img.shields.io/static/v1?label=CSDN&message=hpc_bhd&color=blue" />
     </a>
-    <a href="#">
+    <a href="https://bhd.qhu-hdacp.cn/">
         <img src="https://img.shields.io/static/v1?label=HomePage&message=hpc_bhd&color=blue" />
     </a>
 </div>
