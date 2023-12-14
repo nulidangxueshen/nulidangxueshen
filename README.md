@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=nulidangxueshen" />
     <a href="https://www.zhihu.com/people/hpc_bhd">
         <img src="https://img.shields.io/static/v1?label=zhihu&message=hpc_bhd&color=blue" />
     </a>
